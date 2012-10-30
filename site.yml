@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Blogtopus
+tagline: Testing out Ruhoh
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Kevin Brock
+  email : kevin@brockoleur.com
+  github : brockoleur
+  twitter : brocktopus
 
 navigation :
   - archive.html
